@@ -1,0 +1,536 @@
+,title,name,party,state,district,elected,vote_share (%),age_start,education,end_service
+0,Senator,Richard Shelby,Republican,Alabama,,2016.0,64.0,86.0,D,03/01/2023
+1,Senator,Tommy Tuberville,Republican,Alabama,,2020.0,60.1,66.0,B,03/01/2023
+2,Senator,Lisa Murkowski,Republican,Alaska,,2016.0,44.5,63.0,D,03/01/2023
+3,Senator,Dan Sullivan,Republican,Alaska,,2020.0,53.9,56.0,D,03/01/2023
+4,Senator,Kyrsten Sinema,Democratic,Arizona,,2018.0,50.0,44.0,D,03/01/2023
+5,Senator,Mark Kelly,Democratic,Arizona,,2020.0,51.2,56.0,M,03/01/2023
+6,Senator,John Boozman,Republican,Arkansas,,2016.0,59.7,70.0,D,03/01/2023
+7,Senator,Tom Cotton,Republican,Arkansas,,2020.0,66.5,43.0,D,03/01/2023
+8,Senator,Kamala Harris,Democratic,California,,2016.0,61.8,56.0,D,18/01/2021
+9,Senator,Dianne Feinstein,Democratic,California,,2018.0,54.2,87.0,B,03/01/2023
+10,Senator,Michael Bennet,Democratic,Colorado,,2016.0,50.0,56.0,D,03/01/2023
+11,Senator,John Hickenlooper,Democratic,Colorado,,2020.0,53.5,68.0,M,03/01/2023
+12,Senator,Richard Blumenthal,Democratic,Connecticut,,2016.0,63.2,74.0,D,03/01/2023
+13,Senator,Chris Murphy,Democratic,Connecticut,,2018.0,59.5,47.0,D,03/01/2023
+14,Senator,Tom Carper,Democratic,Delaware,,2018.0,60.0,73.0,M,03/01/2023
+15,Senator,Chris Coons,Democratic,Delaware,,2020.0,59.4,57.0,D,03/01/2023
+16,Senator,Marco Rubio,Republican,Florida,,2016.0,52.0,49.0,D,03/01/2023
+17,Senator,Rick Scott,Republican,Florida,,2018.0,50.1,68.0,D,03/01/2023
+18,Senator,Raphael Warnock,Democratic,Georgia,,2020.0,51.0,51.0,D,03/01/2023
+19,Senator,Jon Ossoff,Democratic,Georgia,,2020.0,50.6,33.0,M,03/01/2023
+20,Senator,Brian Schatz,Democratic,Hawaii,,2016.0,73.6,48.0,B,03/01/2023
+21,Senator,Mazie Hirono,Democratic,Hawaii,,2018.0,71.2,73.0,D,03/01/2023
+22,Senator,Mike Crapo,Republican,Idaho,,2016.0,66.1,69.0,D,03/01/2023
+23,Senator,Jim Risch,Republican,Idaho,,2020.0,62.6,77.0,D,03/01/2023
+24,Senator,Tammy Duckworth,Democratic,Illinois,,2016.0,54.9,52.0,D,03/01/2023
+25,Senator,Dick Durbin,Democratic,Illinois,,2020.0,54.9,76.0,D,03/01/2023
+26,Senator,Todd Young,Republican,Indiana,,2016.0,52.1,48.0,D,03/01/2023
+27,Senator,Mike Braun,Republican,Indiana,,2018.0,50.9,66.0,M,03/01/2023
+28,Senator,Chuck Grassley,Republican,Iowa,,2016.0,60.1,87.0,M,03/01/2023
+29,Senator,Joni Ernst,Republican,Iowa,,2020.0,51.8,50.0,M,03/01/2023
+30,Senator,Jerry Moran,Republican,Kansas,,2016.0,62.1,66.0,D,03/01/2023
+31,Senator,Roger Marshall,Republican,Kansas,,2020.0,53.2,60.0,D,03/01/2023
+32,Senator,Rand Paul,Republican,Kentucky,,2016.0,57.3,57.0,D,03/01/2023
+33,Senator,Mitch McConnell,Republican,Kentucky,,2020.0,57.8,78.0,D,03/01/2023
+34,Senator,John Kennedy,Republican,Louisiana,,2016.0,60.6,69.0,D,03/01/2023
+35,Senator,Bill Cassidy,Republican,Louisiana,,2020.0,59.3,63.0,D,03/01/2023
+36,Senator,Angus King,Democratic,Maine,,2018.0,54.3,76.0,D,03/01/2023
+37,Senator,Susan Collins,Republican,Maine,,2020.0,51.0,68.0,B,03/01/2023
+38,Senator,Chris Van Hollen,Democratic,Maryland,,2016.0,60.9,61.0,D,03/01/2023
+39,Senator,Ben Cardin,Democratic,Maryland,,2018.0,64.9,77.0,D,03/01/2023
+40,Senator,Elizabeth Warren,Democratic,Massachusetts,,2018.0,60.4,71.0,D,03/01/2023
+41,Senator,Ed Markey,Democratic,Massachusetts,,2020.0,66.2,74.0,D,03/01/2023
+42,Senator,Debbie Stabenow,Democratic,Michigan,,2018.0,52.3,70.0,M,03/01/2023
+43,Senator,Gary Peters,Democratic,Michigan,,2020.0,49.9,62.0,D,03/01/2023
+44,Senator,Amy Klobuchar,Democratic,Minnesota,,2018.0,60.3,60.0,D,03/01/2023
+45,Senator,Tina Smith,Democratic,Minnesota,,2020.0,48.8,62.0,M,03/01/2023
+46,Senator,Roger Wicker,Republican,Mississippi,,2018.0,58.5,69.0,D,03/01/2023
+47,Senator,Cindy Hyde-Smith,Republican,Mississippi,,2020.0,54.1,61.0,B,03/01/2023
+48,Senator,Roy Blunt,Republican,Missouri,,2016.0,49.3,70.0,M,03/01/2023
+49,Senator,Josh Hawley,Republican,Missouri,,2018.0,51.4,41.0,D,03/01/2023
+50,Senator,Jon Tester,Democratic,Montana,,2018.0,50.3,64.0,B,03/01/2023
+51,Senator,Steve Daines,Republican,Montana,,2020.0,55.0,58.0,B,03/01/2023
+52,Senator,Deb Fischer,Republican,Nebraska,,2018.0,57.7,69.0,B,03/01/2023
+53,Senator,Ben Sasse,Republican,Nebraska,,2020.0,62.7,48.0,D,03/01/2023
+54,Senator,Catherine Cortez Masto,Democratic,Nevada,,2016.0,47.1,56.0,D,03/01/2023
+55,Senator,Jacky Rosen,Democratic,Nevada,,2018.0,50.4,63.0,B,03/01/2023
+56,Senator,Maggie Hassan,Democratic,New Hampshire,,2016.0,48.0,62.0,D,03/01/2023
+57,Senator,Jeanne Shaheen,Democratic,New Hampshire,,2020.0,56.7,73.0,M,03/01/2023
+58,Senator,Bob Menendez,Democratic,New Jersey,,2018.0,54.0,67.0,D,03/01/2023
+59,Senator,Cory Booker,Democratic,New Jersey,,2020.0,57.2,51.0,D,03/01/2023
+60,Senator,Martin Heinrich,Democratic,New Mexico,,2018.0,54.1,49.0,B,03/01/2023
+61,Senator,Ben Ray Luján,Democratic,New Mexico,,2020.0,51.7,48.0,B,03/01/2023
+62,Senator,Chuck Schumer,Democratic,New York,,2016.0,70.4,70.0,D,03/01/2023
+63,Senator,Kirsten Gillibrand,Democratic,New York,,2018.0,67.0,54.0,D,03/01/2023
+64,Senator,Richard Burr,Republican,North Carolina,,2016.0,51.1,65.0,B,03/01/2023
+65,Senator,Thom Tillis,Republican,North Carolina,,2020.0,48.7,60.0,B,03/01/2023
+66,Senator,John Hoeven,Republican,North Dakota,,2016.0,78.4,63.0,M,03/01/2023
+67,Senator,Kevin Cramer,Republican,North Dakota,,2018.0,55.5,59.0,M,03/01/2023
+68,Senator,Rob Portman,Republican,Ohio,,2016.0,58.0,65.0,D,03/01/2023
+69,Senator,Sherrod Brown,Democratic,Ohio,,2018.0,53.4,68.0,M,03/01/2023
+70,Senator,James Lankford,Republican,Oklahoma,,2016.0,67.7,52.0,D,03/01/2023
+71,Senator,Jim Inhofe,Republican,Oklahoma,,2020.0,62.9,86.0,B,03/01/2023
+72,Senator,Ron Wyden,Democratic,Oregon,,2016.0,56.1,71.0,D,03/01/2023
+73,Senator,Jeff Merkley,Democratic,Oregon,,2020.0,56.9,64.0,M,03/01/2023
+74,Senator,Pat Toomey,Republican,Pennsylvania,,2016.0,48.9,59.0,B,03/01/2023
+75,Senator,Bob Casey Jr.,Democratic,Pennsylvania,,2018.0,55.7,60.0,D,03/01/2023
+76,Senator,Sheldon Whitehouse,Democratic,Rhode Island,,2018.0,61.6,65.0,D,03/01/2023
+77,Senator,Jack Reed,Democratic,Rhode Island,,2020.0,66.6,71.0,D,03/01/2023
+78,Senator,Tim Scott,Republican,South Carolina,,2016.0,60.5,55.0,B,03/01/2023
+79,Senator,Lindsey Graham,Republican,South Carolina,,2020.0,54.5,65.0,D,03/01/2023
+80,Senator,John Thune,Republican,South Dakota,,2016.0,71.8,59.0,M,03/01/2023
+81,Senator,Mike Rounds,Republican,South Dakota,,2020.0,65.7,66.0,B,03/01/2023
+82,Senator,Marsha Blackburn,Republican,Tennessee,,2018.0,54.7,68.0,B,03/01/2023
+83,Senator,Bill Hagerty,Republican,Tennessee,,2020.0,62.2,61.0,D,03/01/2023
+84,Senator,Ted Cruz,Republican,Texas,,2018.0,50.9,50.0,D,03/01/2023
+85,Senator,John Cornyn,Republican,Texas,,2020.0,53.5,68.0,D,03/01/2023
+86,Senator,Mike Lee,Republican,Utah,,2016.0,68.1,49.0,D,03/01/2023
+87,Senator,Mitt Romney,Republican,Utah,,2018.0,62.6,73.0,D,03/01/2023
+88,Senator,Patrick Leahy,Democratic,Vermont,,2016.0,61.3,80.0,D,03/01/2023
+89,Senator,Bernie Sanders,Democratic,Vermont,,2018.0,67.4,79.0,B,03/01/2023
+90,Senator,Tim Kaine,Democratic,Virginia,,2018.0,57.1,62.0,D,03/01/2023
+91,Senator,Mark Warner,Democratic,Virginia,,2020.0,56.0,66.0,D,03/01/2023
+92,Senator,Patty Murray,Democratic,Washington,,2016.0,58.8,70.0,B,03/01/2023
+93,Senator,Maria Cantwell,Democratic,Washington,,2018.0,58.3,62.0,B,03/01/2023
+94,Senator,Joe Manchin,Democratic,West Virginia,,2018.0,49.6,73.0,B,03/01/2023
+95,Senator,Shelley Moore Capito,Republican,West Virginia,,2020.0,70.3,67.0,M,03/01/2023
+96,Senator,Ron Johnson,Republican,Wisconsin,,2016.0,50.2,65.0,B,03/01/2023
+97,Senator,Tammy Baldwin,Democratic,Wisconsin,,2018.0,55.4,58.0,D,03/01/2023
+98,Senator,John Barrasso,Republican,Wyoming,,2018.0,67.1,68.0,D,03/01/2023
+99,Senator,Cynthia Lummis,Republican,Wyoming,,2020.0,73.1,66.0,D,03/01/2023
+100,Representative,Jerry Carl,Republican,Alabama,1,, 64.4,62.0,N,03/01/2023
+101,Representative,Barry Moore,Republican,Alabama,2,, 65.2,54.0,B,03/01/2023
+102,Representative,Mike D. Rogers,Republican,Alabama,3,, 67.5,62.0,D,03/01/2023
+103,Representative,Robert Aderholt,Republican,Alabama,4,, 82.2,55.0,D,03/01/2023
+104,Representative,Mo Brooks,Republican,Alabama,5,, 95.8,66.0,D,03/01/2023
+105,Representative,Gary Palmer,Republican,Alabama,6,, 97.1,66.0,B,03/01/2023
+106,Representative,Terri Sewell,Democratic,Alabama,7,, 97.2,56.0,D,03/01/2023
+107,Representative,Don Young,Republican,Alaska,at-large,, 54.4,87.0,B,18/03/2022
+108,Representative,Tom O'Halleran,Democratic,Arizona,1,, 51.6,74.0,N,03/01/2023
+109,Representative,Ann Kirkpatrick,Democratic,Arizona,2,, 55.1,70.0,D,03/01/2023
+110,Representative,Raúl Grijalva,Democratic,Arizona,3,, 64.6,72.0,B,03/01/2023
+111,Representative,Paul Gosar,Republican,Arizona,4,, 69.7,62.0,D,03/01/2023
+112,Representative,Andy Biggs,Republican,Arizona,5,, 58.9,62.0,D,03/01/2023
+113,Representative,David Schweikert,Republican,Arizona,6,, 52.2,58.0,M,03/01/2023
+114,Representative,Ruben Gallego,Democratic,Arizona,7,, 76.7,41.0,B,03/01/2023
+115,Representative,Debbie Lesko,Republican,Arizona,8,, 59.6,62.0,B,03/01/2023
+116,Representative,Greg Stanton,Democratic,Arizona,9,, 61.6,50.0,D,03/01/2023
+117,Representative,Rick Crawford,Republican,Arkansas,1,, 100.0,54.0,B,03/01/2023
+118,Representative,French Hill,Republican,Arkansas,2,, 55.4,64.0,B,03/01/2023
+119,Representative,Steve Womack,Republican,Arkansas,3,, 64.3,63.0,B,03/01/2023
+120,Representative,Bruce Westerman,Republican,Arkansas,4,, 69.7,53.0,M,03/01/2023
+121,Representative,Doug LaMalfa,Republican,California,1,, 57.0,60.0,B,03/01/2023
+122,Representative,Jared Huffman,Democratic,California,2,, 75.7,56.0,D,03/01/2023
+123,Representative,John Garamendi,Democratic,California,3,, 54.7,75.0,M,03/01/2023
+124,Representative,Tom McClintock,Republican,California,4,, 55.9,64.0,B,03/01/2023
+125,Representative,Mike Thompson,Democratic,California,5,, 76.1,69.0,M,03/01/2023
+126,Representative,Doris Matsui,Democratic,California,6,, 73.3,76.0,B,03/01/2023
+127,Representative,Ami Bera,Democratic,California,7,, 56.6,55.0,D,03/01/2023
+128,Representative,Jay Obernolte,Republican,California,8,, 56.1,50.0,D,03/01/2023
+129,Representative,Jerry McNerney,Democratic,California,9,, 57.6,69.0,D,03/01/2023
+130,Representative,Josh Harder,Democratic,California,10,, 55.2,34.0,M,03/01/2023
+131,Representative,Mark DeSaulnier,Democratic,California,11,, 73.0,68.0,B,03/01/2023
+132,Representative,Nancy Pelosi,Democratic,California,12,, 77.6,80.0,B,03/01/2023
+133,Representative,Barbara Lee,Democratic,California,13,, 90.4,74.0,M,03/01/2023
+134,Representative,Jackie Speier,Democratic,California,14,, 79.3,70.0,D,03/01/2023
+135,Representative,Eric Swalwell,Democratic,California,15,, 70.9,40.0,D,03/01/2023
+136,Representative,Jim Costa,Democratic,California,16,, 59.4,68.0,B,03/01/2023
+137,Representative,Ro Khanna,Democratic,California,17,, 71.3,44.0,D,03/01/2023
+138,Representative,Anna Eshoo,Democratic,California,18,, 63.2,78.0,N,03/01/2023
+139,Representative,Zoe Lofgren,Democratic,California,19,, 71.7,73.0,D,03/01/2023
+140,Representative,Jimmy Panetta,Democratic,California,20,, 76.8,51.0,D,03/01/2023
+141,Representative,David Valadao,Republican,California,21,, 50.5,43.0,N,03/01/2023
+142,Representative,Devin Nunes,Republican,California,22,, 54.2,47.0,M,01/01/2022
+143,Representative,Kevin McCarthy,Republican,California,23,, 62.1,55.0,M,03/01/2023
+144,Representative,Salud Carbajal,Democratic,California,24,, 58.7,56.0,M,03/01/2023
+145,Representative,Mike Garcia,Republican,California,25,, 50.1,44.0,M,03/01/2023
+146,Representative,Julia Brownley,Democratic,California,26,, 60.6,68.0,M,03/01/2023
+147,Representative,Judy Chu,Democratic,California,27,, 69.8,67.0,D,03/01/2023
+148,Representative,Adam Schiff,Democratic,California,28,, 72.7,60.0,D,03/01/2023
+149,Representative,Tony Cárdenas,Democratic,California,29,, 56.6,57.0,B,03/01/2023
+150,Representative,Brad Sherman,Democratic,California,30,, 69.5,66.0,D,03/01/2023
+151,Representative,Pete Aguilar,Democratic,California,31,, 61.3,41.0,B,03/01/2023
+152,Representative,Grace Napolitano,Democratic,California,32,, 66.6,84.0,N,03/01/2023
+153,Representative,Ted Lieu,Democratic,California,33,, 67.6,51.0,D,03/01/2023
+154,Representative,Jimmy Gomez,Democratic,California,34,, 53.0,46.0,M,03/01/2023
+155,Representative,Norma Torres,Democratic,California,35,, 69.3,55.0,B,03/01/2023
+156,Representative,Raul Ruiz,Democratic,California,36,, 60.3,48.0,D,03/01/2023
+157,Representative,Karen Bass,Democratic,California,37,, 85.9,67.0,M,09/12/2022
+158,Representative,Linda Sánchez,Democratic,California,38,, 74.3,51.0,D,03/01/2023
+159,Representative,Young Kim,Republican,California,39,, 50.6,58.0,B,03/01/2023
+160,Representative,Lucille Roybal-Allard,Democratic,California,40,, 72.7,79.0,B,03/01/2023
+161,Representative,Mark Takano,Democratic,California,41,, 64.0,60.0,M,03/01/2023
+162,Representative,Ken Calvert,Republican,California,42,, 57.1,67.0,B,03/01/2023
+163,Representative,Maxine Waters,Democratic,California,43,, 71.7,82.0,B,03/01/2023
+164,Representative,Nanette Barragán,Democratic,California,44,, 67.8,44.0,D,03/01/2023
+165,Representative,Katie Porter,Democratic,California,45,, 53.5,47.0,D,03/01/2023
+166,Representative,Lou Correa,Democratic,California,46,, 68.8,62.0,D,03/01/2023
+167,Representative,Alan Lowenthal,Democratic,California,47,, 63.3,79.0,D,03/01/2023
+168,Representative,Michelle Steel,Republican,California,48,, 51.1,65.0,M,03/01/2023
+169,Representative,Mike Levin,Democratic,California,49,, 53.1,42.0,D,03/01/2023
+170,Representative,Darrell Issa,Republican,California,50,, 54.0,67.0,B,03/01/2023
+171,Representative,Juan Vargas,Democratic,California,51,, 68.3,59.0,D,03/01/2023
+172,Representative,Scott Peters,Democratic,California,52,, 61.6,62.0,D,03/01/2023
+173,Representative,Sara Jacobs,Democratic,California,53,, 59.5,31.0,M,03/01/2023
+174,Representative,Diana DeGette,Democratic,Colorado,1,, 73.6,63.0,D,03/01/2023
+175,Representative,Joe Neguse,Democratic,Colorado,2,, 61.5,36.0,D,03/01/2023
+176,Representative,Lauren Boebert,Republican,Colorado,3,, 51.4,34.0,N,03/01/2023
+177,Representative,Ken Buck,Republican,Colorado,4,, 60.1,61.0,D,03/01/2023
+178,Representative,Doug Lamborn,Republican,Colorado,5,, 57.6,66.0,D,03/01/2023
+179,Representative,Jason Crow,Democratic,Colorado,6,, 57.1,41.0,D,03/01/2023
+180,Representative,Ed Perlmutter,Democratic,Colorado,7,, 59.1,67.0,D,03/01/2023
+181,Representative,John B. Larson,Democratic,Connecticut,1,, 63.8,72.0,B,03/01/2023
+182,Representative,Joe Courtney,Democratic,Connecticut,2,, 59.4,67.0,D,03/01/2023
+183,Representative,Rosa DeLauro,Democratic,Connecticut,3,, 58.7,77.0,M,03/01/2023
+184,Representative,Jim Himes,Democratic,Connecticut,4,, 62.2,54.0,M,03/01/2023
+185,Representative,Jahana Hayes,Democratic,Connecticut,5,, 55.1,47.0,D,03/01/2023
+186,Representative,Lisa Blunt Rochester,Democratic,Delaware,at-large,, 57.6,58.0,M,03/01/2023
+187,Representative,Matt Gaetz,Republican,Florida,1,, 64.6,38.0,D,03/01/2023
+188,Representative,Neal Dunn,Republican,Florida,2,, 97.9,67.0,D,03/01/2023
+189,Representative,Kat Cammack,Republican,Florida,3,, 57.1,32.0,M,03/01/2023
+190,Representative,John Rutherford,Republican,Florida,4,, 61.1,68.0,B,03/01/2023
+191,Representative,Al Lawson,Democratic,Florida,5,, 65.1,72.0,M,03/01/2023
+192,Representative,Michael Waltz,Republican,Florida,6,, 60.6,46.0,B,03/01/2023
+193,Representative,Stephanie Murphy,Democratic,Florida,7,, 55.3,42.0,M,03/01/2023
+194,Representative,Bill Posey,Republican,Florida,8,, 61.4,73.0,N,03/01/2023
+195,Representative,Darren Soto,Democratic,Florida,9,, 56.0,42.0,D,03/01/2023
+196,Representative,Val Demings,Democratic,Florida,10,, 63.6,63.0,M,03/01/2023
+197,Representative,Daniel Webster,Republican,Florida,11,, 66.7,71.0,B,03/01/2023
+198,Representative,Gus Bilirakis,Republican,Florida,12,, 62.9,57.0,D,03/01/2023
+199,Representative,Charlie Crist,Democratic,Florida,13,, 53.0,64.0,D,31/08/2022
+200,Representative,Kathy Castor,Democratic,Florida,14,, 60.3,54.0,D,03/01/2023
+201,Representative,Scott Franklin,Republican,Florida,15,, 55.4,56.0,M,03/01/2023
+202,Representative,Vern Buchanan,Republican,Florida,16,, 55.5,69.0,M,03/01/2023
+203,Representative,Greg Steube,Republican,Florida,17,, 64.6,42.0,D,03/01/2023
+204,Representative,Brian Mast,Republican,Florida,18,, 56.3,40.0,B,03/01/2023
+205,Representative,Byron Donalds,Republican,Florida,19,, 61.3,42.0,B,03/01/2023
+206,Representative,Alcee Hastings,Democratic,Florida,20,, 78.7,84.0,D,06/04/2021
+207,Representative,Lois Frankel,Democratic,Florida,21,, 59.0,72.0,D,03/01/2023
+208,Representative,Ted Deutch,Democratic,Florida,22,, 58.6,54.0,D,30/09/2022
+209,Representative,Debbie Wasserman Schultz,Democratic,Florida,23,, 58.2,54.0,M,03/01/2023
+210,Representative,Frederica Wilson,Democratic,Florida,24,, 75.6,78.0,M,03/01/2023
+211,Representative,Mario Díaz-Balart,Republican,Florida,25,, 100.0,59.0,B,03/01/2023
+212,Representative,Carlos A. Giménez,Republican,Florida,26,, 51.7,66.0,B,03/01/2023
+213,Representative,María Elvira Salazar,Republican,Florida,27,, 51.4,59.0,M,03/01/2023
+214,Representative,Buddy Carter,Republican,Georgia,1,, 58.3,63.0,B,03/01/2023
+215,Representative,Sanford Bishop,Democratic,Georgia,2,, 59.1,73.0,D,03/01/2023
+216,Representative,Drew Ferguson,Republican,Georgia,3,, 65.0,54.0,D,03/01/2023
+217,Representative,Hank Johnson,Democratic,Georgia,4,, 80.1,66.0,D,03/01/2023
+218,Representative,Nikema Williams,Democratic,Georgia,5,, 85.1,42.0,B,03/01/2023
+219,Representative,Lucy McBath,Democratic,Georgia,6,, 54.6,60.0,B,03/01/2023
+220,Representative,Carolyn Bourdeaux,Democratic,Georgia,7,, 51.4,50.0,D,03/01/2023
+221,Representative,Austin Scott,Republican,Georgia,8,, 64.5,51.0,B,03/01/2023
+222,Representative,Andrew Clyde,Republican,Georgia,9,, 78.6,57.0,M,03/01/2023
+223,Representative,Jody Hice,Republican,Georgia,10,, 62.3,60.0,D,03/01/2023
+224,Representative,Barry Loudermilk,Republican,Georgia,11,, 60.4,57.0,B,03/01/2023
+225,Representative,Rick W. Allen,Republican,Georgia,12,, 58.4,69.0,B,03/01/2023
+226,Representative,David Scott,Democratic,Georgia,13,, 77.4,75.0,M,03/01/2023
+227,Representative,Marjorie Taylor Greene,Republican,Georgia,14,, 74.7,46.0,B,03/01/2023
+228,Representative,Ed Case,Democratic,Hawaii,1,, 72.0,68.0,D,03/01/2023
+229,Representative,Kai Kahele,Democratic,Hawaii,2,, 63.0,46.0,B,03/01/2023
+230,Representative,Russ Fulcher,Republican,Idaho,1,, 67.8,58.0,M,03/01/2023
+231,Representative,Mike Simpson,Republican,Idaho,2,, 64.1,70.0,D,03/01/2023
+232,Representative,Bobby Rush,Democratic,Illinois,1,, 73.8,74.0,M,03/01/2023
+233,Representative,Robin Kelly,Democratic,Illinois,2,, 78.8,64.0,D,03/01/2023
+234,Representative,Marie Newman,Democratic,Illinois,3,, 56.4,56.0,B,03/01/2023
+235,Representative,"Jesús ""Chuy"" García",Democratic,Illinois,4,, 84.0,64.0,M,03/01/2023
+236,Representative,Mike Quigley,Democratic,Illinois,5,, 70.8,62.0,D,03/01/2023
+237,Representative,Sean Casten,Democratic,Illinois,6,, 52.8,49.0,M,03/01/2023
+238,Representative,Danny K. Davis,Democratic,Illinois,7,, 80.4,79.0,D,03/01/2023
+239,Representative,Raja Krishnamoorthi,Democratic,Illinois,8,, 73.2,47.0,D,03/01/2023
+240,Representative,Jan Schakowsky,Democratic,Illinois,9,, 71.0,76.0,B,03/01/2023
+241,Representative,Brad Schneider,Democratic,Illinois,10,, 63.9,59.0,M,03/01/2023
+242,Representative,Bill Foster,Democratic,Illinois,11,, 63.3,65.0,D,03/01/2023
+243,Representative,Mike Bost,Republican,Illinois,12,, 60.4,60.0,N,03/01/2023
+244,Representative,Rodney Davis,Republican,Illinois,13,, 54.5,50.0,B,03/01/2023
+245,Representative,Lauren Underwood,Democratic,Illinois,14,, 50.7,34.0,M,03/01/2023
+246,Representative,Mary Miller,Republican,Illinois,15,, 73.5,61.0,B,03/01/2023
+247,Representative,Adam Kinzinger,Republican,Illinois,16,, 64.7,42.0,B,03/01/2023
+248,Representative,Cheri Bustos,Democratic,Illinois,17,, 52.0,59.0,M,03/01/2023
+249,Representative,Darin LaHood,Republican,Illinois,18,, 70.4,52.0,D,03/01/2023
+250,Representative,Frank J. Mrvan,Democratic,Indiana,1,, 56.6,51.0,B,03/01/2023
+251,Representative,Jackie Walorski,Republican,Indiana,2,, 61.5,57.0,B,03/08/2022
+252,Representative,Jim Banks,Republican,Indiana,3,, 67.8,41.0,M,03/01/2023
+253,Representative,Jim Baird,Republican,Indiana,4,, 66.6,75.0,D,03/01/2023
+254,Representative,Victoria Spartz,Republican,Indiana,5,, 50.0,42.0,M,03/01/2023
+255,Representative,Greg Pence,Republican,Indiana,6,, 68.6,64.0,M,03/01/2023
+256,Representative,André Carson,Democratic,Indiana,7,, 62.4,46.0,M,03/01/2023
+257,Representative,Larry Bucshon,Republican,Indiana,8,, 66.9,58.0,D,03/01/2023
+258,Representative,Trey Hollingsworth,Republican,Indiana,9,, 61.8,37.0,M,03/01/2023
+259,Representative,Ashley Hinson,Republican,Iowa,1,, 51.2,37.0,B,03/01/2023
+260,Representative,Mariannette Miller-Meeks,Republican,Iowa,2,, 49.912,65.0,D,03/01/2023
+261,Representative,Cindy Axne,Democratic,Iowa,3,, 48.9,55.0,M,03/01/2023
+262,Representative,Randy Feenstra,Republican,Iowa,4,, 62.0,51.0,M,03/01/2023
+263,Representative,Tracey Mann,Republican,Kansas,1,, 71.2,44.0,B,03/01/2023
+264,Representative,Jake LaTurner,Republican,Kansas,2,, 55.2,32.0,B,03/01/2023
+265,Representative,Sharice Davids,Democratic,Kansas,3,, 53.6,40.0,D,03/01/2023
+266,Representative,Ron Estes,Republican,Kansas,4,, 63.7,64.0,M,03/01/2023
+267,Representative,James Comer,Republican,Kentucky,1,, 75.0,48.0,B,03/01/2023
+268,Representative,Brett Guthrie,Republican,Kentucky,2,, 71.0,56.0,M,03/01/2023
+269,Representative,John Yarmuth,Democratic,Kentucky,3,, 62.7,73.0,B,03/01/2023
+270,Representative,Thomas Massie,Republican,Kentucky,4,, 67.1,49.0,M,03/01/2023
+271,Representative,Hal Rogers,Republican,Kentucky,5,, 84.2,83.0,B,03/01/2023
+272,Representative,Andy Barr,Republican,Kentucky,6,, 57.3,47.0,D,03/01/2023
+273,Representative,Steve Scalise,Republican,Louisiana,1,, 72.2,55.0,B,03/01/2023
+274,Representative,Cedric Richmond,Democratic,Louisiana,2,, 63.6,47.0,D,15/01/2021
+275,Representative,Clay Higgins,Republican,Louisiana,3,, 67.8,59.0,N,03/01/2023
+276,Representative,Mike Johnson,Republican,Louisiana,4,, 60.4,48.0,D,03/01/2023
+277,Representative,Luke Letlow,Republican,Louisiana,5,, 62.0,,N,
+278,Representative,Garret Graves,Republican,Louisiana,6,, 71.0,48.0,N,03/01/2023
+279,Representative,Chellie Pingree,Democratic,Maine,1,, 62.2,65.0,B,03/01/2023
+280,Representative,Jared Golden,Democratic,Maine,2,, 53.0,38.0,B,03/01/2023
+281,Representative,Andy Harris,Republican,Maryland,1,, 63.4,63.0,D,03/01/2023
+282,Representative,Dutch Ruppersberger,Democratic,Maryland,2,, 67.7,74.0,D,03/01/2023
+283,Representative,John Sarbanes,Democratic,Maryland,3,, 69.8,58.0,D,03/01/2023
+284,Representative,Anthony Brown,Democratic,Maryland,4,, 79.6,59.0,D,03/01/2023
+285,Representative,Steny Hoyer,Democratic,Maryland,5,, 68.8,81.0,D,03/01/2023
+286,Representative,David Trone,Democratic,Maryland,6,, 58.8,65.0,M,03/01/2023
+287,Representative,Kweisi Mfume,Democratic,Maryland,7,, 71.6,72.0,M,03/01/2023
+288,Representative,Jamie Raskin,Democratic,Maryland,8,, 68.2,58.0,D,03/01/2023
+289,Representative,Richard Neal,Democratic,Massachusetts,1,, 96.5,71.0,M,03/01/2023
+290,Representative,Jim McGovern,Democratic,Massachusetts,2,, 65.3,61.0,M,03/01/2023
+291,Representative,Lori Trahan,Democratic,Massachusetts,3,, 97.7,47.0,B,03/01/2023
+292,Representative,Jake Auchincloss,Democratic,Massachusetts,4,, 60.8,32.0,M,03/01/2023
+293,Representative,Katherine Clark,Democratic,Massachusetts,5,, 74.3,57.0,D,03/01/2023
+294,Representative,Seth Moulton,Democratic,Massachusetts,6,, 65.4,42.0,M,03/01/2023
+295,Representative,Ayanna Pressley,Democratic,Massachusetts,7,, 86.6,46.0,N,03/01/2023
+296,Representative,Stephen F. Lynch,Democratic,Massachusetts,8,, 80.7,65.0,D,03/01/2023
+297,Representative,Bill Keating,Democratic,Massachusetts,9,, 61.3,68.0,D,03/01/2023
+298,Representative,Jack Bergman,Republican,Michigan,1,, 61.7,73.0,M,03/01/2023
+299,Representative,Bill Huizenga,Republican,Michigan,2,, 59.2,51.0,B,03/01/2023
+300,Representative,Peter Meijer,Republican,Michigan,3,, 53.0,32.0,M,03/01/2023
+301,Representative,John Moolenaar,Republican,Michigan,4,, 65.0,59.0,M,03/01/2023
+302,Representative,Dan Kildee,Democratic,Michigan,5,, 54.4,62.0,B,03/01/2023
+303,Representative,Fred Upton,Republican,Michigan,6,, 55.8,67.0,B,03/01/2023
+304,Representative,Tim Walberg,Republican,Michigan,7,, 58.7,69.0,M,03/01/2023
+305,Representative,Elissa Slotkin,Democratic,Michigan,8,, 50.9,44.0,M,03/01/2023
+306,Representative,Andy Levin,Democratic,Michigan,9,, 57.7,60.0,D,03/01/2023
+307,Representative,Lisa McClain,Republican,Michigan,10,, 66.3,54.0,B,03/01/2023
+308,Representative,Haley Stevens,Democratic,Michigan,11,, 50.2,37.0,M,03/01/2023
+309,Representative,Debbie Dingell,Democratic,Michigan,12,, 66.4,67.0,M,03/01/2023
+310,Representative,Rashida Tlaib,Democratic,Michigan,13,, 78.1,44.0,D,03/01/2023
+311,Representative,Brenda Lawrence,Democratic,Michigan,14,, 79.3,66.0,B,03/01/2023
+312,Representative,Jim Hagedorn,Republican,Minnesota,1,, 48.6,58.0,B,17/02/2022
+313,Representative,Angie Craig,Democratic,Minnesota,2,, 48.2,48.0,B,03/01/2023
+314,Representative,Dean Phillips,Democratic,Minnesota,3,, 55.6,51.0,M,03/01/2023
+315,Representative,Betty McCollum,Democratic,Minnesota,4,, 63.2,66.0,B,03/01/2023
+316,Representative,Ilhan Omar,Democratic,Minnesota,5,, 64.3,38.0,B,03/01/2023
+317,Representative,Tom Emmer,Republican,Minnesota,6,, 65.7,59.0,D,03/01/2023
+318,Representative,Michelle Fischbach,Republican,Minnesota,7,, 53.4,55.0,D,03/01/2023
+319,Representative,Pete Stauber,Republican,Minnesota,8,, 56.7,54.0,B,03/01/2023
+320,Representative,Trent Kelly,Republican,Mississippi,1,, 68.8,54.0,D,03/01/2023
+321,Representative,Bennie Thompson,Democratic,Mississippi,2,, 66.0,72.0,M,03/01/2023
+322,Representative,Michael Guest,Republican,Mississippi,3,, 64.7,50.0,D,03/01/2023
+323,Representative,Steven Palazzo,Republican,Mississippi,4,, 100.0,50.0,M,03/01/2023
+324,Representative,Cori Bush,Democratic,Missouri,1,, 78.8,44.0,N,03/01/2023
+325,Representative,Ann Wagner,Republican,Missouri,2,, 51.9,58.0,B,03/01/2023
+326,Representative,Blaine Luetkemeyer,Republican,Missouri,3,, 69.4,68.0,B,03/01/2023
+327,Representative,Vicky Hartzler,Republican,Missouri,4,, 67.6,60.0,M,03/01/2023
+328,Representative,Emanuel Cleaver,Democratic,Missouri,5,, 58.8,76.0,D,03/01/2023
+329,Representative,Sam Graves,Republican,Missouri,6,, 67.1,57.0,B,03/01/2023
+330,Representative,Billy Long,Republican,Missouri,7,, 68.9,65.0,N,03/01/2023
+331,Representative,Jason Smith,Republican,Missouri,8,, 76.9,40.0,D,03/01/2023
+332,Representative,Matt Rosendale,Republican,Montana,at-large,, 56.4,60.0,N,03/01/2023
+333,Representative,Jeff Fortenberry,Republican,Nebraska,1,, 59.5,60.0,M,31/03/2022
+334,Representative,Don Bacon,Republican,Nebraska,2,, 50.8,57.0,M,03/01/2023
+335,Representative,Adrian Smith,Republican,Nebraska,3,, 78.5,50.0,B,03/01/2023
+336,Representative,Dina Titus,Democratic,Nevada,1,, 61.8,70.0,D,03/01/2023
+337,Representative,Mark Amodei,Republican,Nevada,2,, 56.5,62.0,D,03/01/2023
+338,Representative,Susie Lee,Democratic,Nevada,3,, 48.8,54.0,M,03/01/2023
+339,Representative,Steven Horsford,Democratic,Nevada,4,, 50.7,47.0,B,03/01/2023
+340,Representative,Chris Pappas,Democratic,New Hampshire,1,, 51.3,40.0,B,03/01/2023
+341,Representative,Ann McLane Kuster,Democratic,New Hampshire,2,, 53.9,64.0,D,03/01/2023
+342,Representative,Donald Norcross,Democratic,New Jersey,1,, 62.5,62.0,N,03/01/2023
+343,Representative,Jeff Van Drew,Republican,New Jersey,2,, 51.9,67.0,D,03/01/2023
+344,Representative,Andy Kim,Democratic,New Jersey,3,, 53.2,38.0,D,03/01/2023
+345,Representative,Chris Smith,Republican,New Jersey,4,, 59.9,67.0,B,03/01/2023
+346,Representative,Josh Gottheimer,Democratic,New Jersey,5,, 53.2,45.0,D,03/01/2023
+347,Representative,Frank Pallone,Democratic,New Jersey,6,, 61.2,69.0,D,03/01/2023
+348,Representative,Tom Malinowski,Democratic,New Jersey,7,, 50.6,55.0,M,03/01/2023
+349,Representative,Albio Sires,Democratic,New Jersey,8,, 74.0,69.0,M,03/01/2023
+350,Representative,Bill Pascrell,Democratic,New Jersey,9,, 65.8,83.0,M,03/01/2023
+351,Representative,Donald Payne Jr.,Democratic,New Jersey,10,, 83.3,62.0,N,03/01/2023
+352,Representative,Mikie Sherrill,Democratic,New Jersey,11,, 53.3,48.0,D,03/01/2023
+353,Representative,Bonnie Watson Coleman,Democratic,New Jersey,12,, 65.6,75.0,B,03/01/2023
+354,Representative,Deb Haaland,Democratic,New Mexico,1,, 58.2,60.0,D,16/03/2021
+355,Representative,Yvette Herrell,Republican,New Mexico,2,, 53.7,56.0,M,03/01/2023
+356,Representative,Teresa Leger Fernandez,Democratic,New Mexico,3,, 58.7,61.0,D,03/01/2023
+357,Representative,Lee Zeldin,Republican,New York,1,, 54.9,40.0,D,03/01/2023
+358,Representative,Andrew Garbarino,Republican,New York,2,, 52.9,36.0,D,03/01/2023
+359,Representative,Thomas Suozzi,Democratic,New York,3,, 56.0,58.0,D,03/01/2023
+360,Representative,Kathleen Rice,Democratic,New York,4,, 56.1,55.0,D,03/01/2023
+361,Representative,Gregory W. Meeks,Democratic,New York,5,, 100.0,67.0,D,03/01/2023
+362,Representative,Grace Meng,Democratic,New York,6,, 68.0,45.0,D,03/01/2023
+363,Representative,Nydia Velázquez,Democratic,New York,7,, 84.9,67.0,M,03/01/2023
+364,Representative,Hakeem Jeffries,Democratic,New York,8,, 84.8,50.0,D,03/01/2023
+365,Representative,Yvette Clarke,Democratic,New York,9,, 83.1,56.0,N,03/01/2023
+366,Representative,Jerrold Nadler,Democratic,New York,10,, 74.6,73.0,D,03/01/2023
+367,Representative,Nicole Malliotakis,Republican,New York,11,, 53.2,40.0,M,03/01/2023
+368,Representative,Carolyn Maloney,Democratic,New York,12,, 82.3,74.0,B,03/01/2023
+369,Representative,Adriano Espaillat,Democratic,New York,13,, 90.9,66.0,B,03/01/2023
+370,Representative,Alexandria Ocasio-Cortez,Democratic,New York,14,, 71.6,31.0,B,03/01/2023
+371,Representative,Ritchie Torres,Democratic,New York,15,, 88.9,32.0,N,03/01/2023
+372,Representative,Jamaal Bowman,Democratic,New York,16,, 84.2,44.0,D,03/01/2023
+373,Representative,Mondaire Jones,Democratic,New York,17,, 59.3,33.0,D,03/01/2023
+374,Representative,Sean Patrick Maloney,Democratic,New York,18,, 55.8,54.0,D,03/01/2023
+375,Representative,Antonio Delgado,Democratic,New York,19,, 54.8,43.0,D,25/05/2022
+376,Representative,Paul Tonko,Democratic,New York,20,, 61.2,71.0,B,03/01/2023
+377,Representative,Elise Stefanik,Republican,New York,21,, 58.8,36.0,B,03/01/2023
+378,Representative,Claudia Tenney,Republican,New York,22,, 48.84,,N,
+379,Representative,Tom Reed,Republican,New York,23,, 57.7,49.0,D,10/05/2022
+380,Representative,John Katko,Republican,New York,24,, 53.1,58.0,D,03/01/2023
+381,Representative,Joseph Morelle,Democratic,New York,25,, 59.3,63.0,B,03/01/2023
+382,Representative,Brian Higgins,Democratic,New York,26,, 69.9,61.0,M,03/01/2023
+383,Representative,Chris Jacobs,Republican,New York,27,, 59.7,54.0,D,03/01/2023
+384,Representative,G. K. Butterfield,Democratic,North Carolina,1,, 54.2,73.0,D,30/12/2022
+385,Representative,Deborah K. Ross,Democratic,North Carolina,2,, 63.0,57.0,D,03/01/2023
+386,Representative,Greg Murphy,Republican,North Carolina,3,, 63.4,57.0,D,03/01/2023
+387,Representative,David Price,Democratic,North Carolina,4,, 67.3,80.0,D,03/01/2023
+388,Representative,Virginia Foxx,Republican,North Carolina,5,, 66.9,77.0,D,03/01/2023
+389,Representative,Kathy Manning,Democratic,North Carolina,6,, 62.3,64.0,D,03/01/2023
+390,Representative,David Rouzer,Republican,North Carolina,7,, 60.2,48.0,B,03/01/2023
+391,Representative,Richard Hudson,Republican,North Carolina,8,, 53.3,49.0,B,03/01/2023
+392,Representative,Dan Bishop,Republican,North Carolina,9,, 55.6,56.0,D,03/01/2023
+393,Representative,Patrick McHenry,Republican,North Carolina,10,, 68.9,45.0,B,03/01/2023
+394,Representative,Madison Cawthorn,Republican,North Carolina,11,, 54.5,25.0,N,03/01/2023
+395,Representative,Alma Adams,Democratic,North Carolina,12,, 100.0,74.0,D,03/01/2023
+396,Representative,Ted Budd,Republican,North Carolina,13,, 68.2,49.0,M,03/01/2023
+397,Representative,Kelly Armstrong,Republican,North Dakota,at-large,, 69.0,44.0,D,03/01/2023
+398,Representative,Steve Chabot,Republican,Ohio,1,, 51.8,67.0,D,03/01/2023
+399,Representative,Brad Wenstrup,Republican,Ohio,2,, 61.1,62.0,D,03/01/2023
+400,Representative,Joyce Beatty,Democratic,Ohio,3,, 70.8,70.0,M,03/01/2023
+401,Representative,Jim Jordan,Republican,Ohio,4,, 67.9,56.0,D,03/01/2023
+402,Representative,Bob Latta,Republican,Ohio,5,, 68.0,64.0,D,03/01/2023
+403,Representative,Bill Johnson,Republican,Ohio,6,, 74.4,66.0,M,03/01/2023
+404,Representative,Bob Gibbs,Republican,Ohio,7,, 67.5,66.0,N,03/01/2023
+405,Representative,Warren Davidson,Republican,Ohio,8,, 69.0,50.0,M,03/01/2023
+406,Representative,Marcy Kaptur,Democratic,Ohio,9,, 63.1,74.0,M,03/01/2023
+407,Representative,Mike Turner,Republican,Ohio,10,, 58.4,60.0,D,03/01/2023
+408,Representative,Marcia Fudge,Democratic,Ohio,11,, 80.1,68.0,D,10/03/2021
+409,Representative,Troy Balderson,Republican,Ohio,12,, 55.2,58.0,N,03/01/2023
+410,Representative,Tim Ryan,Democratic,Ohio,13,, 52.5,47.0,D,03/01/2023
+411,Representative,David Joyce,Republican,Ohio,14,, 60.1,63.0,D,03/01/2023
+412,Representative,Steve Stivers,Republican,Ohio,15,, 63.4,55.0,M,16/05/2021
+413,Representative,Anthony Gonzalez,Republican,Ohio,16,, 63.2,36.0,M,03/01/2023
+414,Representative,Kevin Hern,Republican,Oklahoma,1,, 63.7,59.0,M,03/01/2023
+415,Representative,Markwayne Mullin,Republican,Oklahoma,2,, 75.0,43.0,N,03/01/2023
+416,Representative,Frank Lucas,Republican,Oklahoma,3,, 78.5,60.0,B,03/01/2023
+417,Representative,Tom Cole,Republican,Oklahoma,4,, 67.8,71.0,D,03/01/2023
+418,Representative,Stephanie Bice,Republican,Oklahoma,5,, 52.1,47.0,B,03/01/2023
+419,Representative,Suzanne Bonamici,Democratic,Oregon,1,, 64.6,66.0,D,03/01/2023
+420,Representative,Cliff Bentz,Republican,Oregon,2,, 59.9,68.0,D,03/01/2023
+421,Representative,Earl Blumenauer,Democratic,Oregon,3,, 73.0,72.0,D,03/01/2023
+422,Representative,Peter DeFazio,Democratic,Oregon,4,, 51.5,73.0,M,03/01/2023
+423,Representative,Kurt Schrader,Democratic,Oregon,5,, 51.9,69.0,D,03/01/2023
+424,Representative,Brian Fitzpatrick,Republican,Pennsylvania,1,, 56.6,47.0,D,03/01/2023
+425,Representative,Brendan Boyle,Democratic,Pennsylvania,2,, 72.5,43.0,M,03/01/2023
+426,Representative,Dwight Evans,Democratic,Pennsylvania,3,, 91.0,66.0,B,03/01/2023
+427,Representative,Madeleine Dean,Democratic,Pennsylvania,4,, 59.5,61.0,D,03/01/2023
+428,Representative,Mary Gay Scanlon,Democratic,Pennsylvania,5,, 64.7,61.0,D,03/01/2023
+429,Representative,Chrissy Houlahan,Democratic,Pennsylvania,6,, 56.1,53.0,M,03/01/2023
+430,Representative,Susan Wild,Democratic,Pennsylvania,7,, 51.9,63.0,D,03/01/2023
+431,Representative,Matt Cartwright,Democratic,Pennsylvania,8,, 51.8,59.0,D,03/01/2023
+432,Representative,Dan Meuser,Republican,Pennsylvania,9,, 66.3,56.0,B,03/01/2023
+433,Representative,Scott Perry,Republican,Pennsylvania,10,, 53.3,58.0,M,03/01/2023
+434,Representative,Lloyd Smucker,Republican,Pennsylvania,11,, 63.1,56.0,N,03/01/2023
+435,Representative,Fred Keller,Republican,Pennsylvania,12,, 70.8,55.0,N,03/01/2023
+436,Representative,John Joyce,Republican,Pennsylvania,13,, 73.5,63.0,D,03/01/2023
+437,Representative,Guy Reschenthaler,Republican,Pennsylvania,14,, 64.7,37.0,D,03/01/2023
+438,Representative,Glenn Thompson,Republican,Pennsylvania,15,, 73.5,61.0,M,03/01/2023
+439,Representative,Mike Kelly,Republican,Pennsylvania,16,, 59.3,72.0,B,03/01/2023
+440,Representative,Conor Lamb,Democratic,Pennsylvania,17,, 51.1,36.0,D,03/01/2023
+441,Representative,Michael F. Doyle,Democratic,Pennsylvania,18,, 69.3,67.0,B,31/12/2022
+442,Representative,David Cicilline,Democratic,Rhode Island,1,, 70.8,59.0,D,03/01/2023
+443,Representative,Jim Langevin,Democratic,Rhode Island,2,, 58.2,56.0,M,03/01/2023
+444,Representative,Nancy Mace,Republican,South Carolina,1,, 50.6,43.0,M,03/01/2023
+445,Representative,Joe Wilson,Republican,South Carolina,2,, 55.7,73.0,D,03/01/2023
+446,Representative,Jeff Duncan,Republican,South Carolina,3,, 71.2,54.0,B,03/01/2023
+447,Representative,William Timmons,Republican,South Carolina,4,, 61.6,36.0,D,03/01/2023
+448,Representative,Ralph Norman,Republican,South Carolina,5,, 60.1,67.0,B,03/01/2023
+449,Representative,Jim Clyburn,Democratic,South Carolina,6,, 68.2,80.0,B,03/01/2023
+450,Representative,Tom Rice,Republican,South Carolina,7,, 61.8,63.0,D,03/01/2023
+451,Representative,Dusty Johnson,Republican,South Dakota,at-large,, 81.0,44.0,M,03/01/2023
+452,Representative,Diana Harshbarger,Republican,Tennessee,1,, 74.7,61.0,D,03/01/2023
+453,Representative,Tim Burchett,Republican,Tennessee,2,, 67.6,56.0,B,03/01/2023
+454,Representative,Chuck Fleischmann,Republican,Tennessee,3,, 67.3,58.0,D,03/01/2023
+455,Representative,Scott DesJarlais,Republican,Tennessee,4,, 66.7,56.0,D,03/01/2023
+456,Representative,Jim Cooper,Democratic,Tennessee,5,, 100.0,66.0,D,03/01/2023
+457,Representative,John W. Rose,Republican,Tennessee,6,, 73.7,55.0,D,03/01/2023
+458,Representative,Mark E. Green,Republican,Tennessee,7,, 69.9,56.0,D,03/01/2023
+459,Representative,David Kustoff,Republican,Tennessee,8,, 68.5,54.0,D,03/01/2023
+460,Representative,Steve Cohen,Democratic,Tennessee,9,, 77.4,71.0,D,03/01/2023
+461,Representative,Louie Gohmert,Republican,Texas,1,, 72.6,67.0,D,03/01/2023
+462,Representative,Dan Crenshaw,Republican,Texas,2,, 55.6,36.0,M,03/01/2023
+463,Representative,Van Taylor,Republican,Texas,3,, 55.1,48.0,M,03/01/2023
+464,Representative,Pat Fallon,Republican,Texas,4,, 75.1,53.0,B,03/01/2023
+465,Representative,Lance Gooden,Republican,Texas,5,, 62.0,38.0,B,03/01/2023
+466,Representative,Ron Wright,Republican,Texas,6,, 52.8,67.0,N,07/02/2021
+467,Representative,Lizzie Fletcher,Democratic,Texas,7,, 50.8,45.0,D,03/01/2023
+468,Representative,Kevin Brady,Republican,Texas,8,, 72.5,65.0,B,03/01/2023
+469,Representative,Al Green,Democratic,Texas,9,, 75.5,73.0,D,03/01/2023
+470,Representative,Michael McCaul,Republican,Texas,10,, 52.5,58.0,D,03/01/2023
+471,Representative,August Pfluger,Republican,Texas,11,, 79.7,42.0,M,03/01/2023
+472,Representative,Kay Granger,Republican,Texas,12,, 63.7,77.0,B,03/01/2023
+473,Representative,Ronny Jackson,Republican,Texas,13,, 79.4,53.0,D,03/01/2023
+474,Representative,Randy Weber,Republican,Texas,14,, 61.6,67.0,B,03/01/2023
+475,Representative,Vicente González,Democratic,Texas,15,, 50.5,53.0,D,03/01/2023
+476,Representative,Veronica Escobar,Democratic,Texas,16,, 64.7,51.0,M,03/01/2023
+477,Representative,Pete Sessions,Republican,Texas,17,, 55.9,65.0,B,03/01/2023
+478,Representative,Sheila Jackson Lee,Democratic,Texas,18,, 73.3,70.0,D,03/01/2023
+479,Representative,Jodey Arrington,Republican,Texas,19,, 74.8,48.0,M,03/01/2023
+480,Representative,Joaquin Castro,Democratic,Texas,20,, 64.7,46.0,D,03/01/2023
+481,Representative,Chip Roy,Republican,Texas,21,, 52.0,48.0,D,03/01/2023
+482,Representative,Troy Nehls,Republican,Texas,22,, 51.5,52.0,M,03/01/2023
+483,Representative,Tony Gonzales,Republican,Texas,23,, 50.6,40.0,M,03/01/2023
+484,Representative,Beth Van Duyne,Republican,Texas,24,, 48.8,50.0,B,03/01/2023
+485,Representative,Roger Williams,Republican,Texas,25,, 55.9,71.0,B,03/01/2023
+486,Representative,Michael C. Burgess,Republican,Texas,26,, 60.6,70.0,D,03/01/2023
+487,Representative,Michael Cloud,Republican,Texas,27,, 63.1,45.0,B,03/01/2023
+488,Representative,Henry Cuellar,Democratic,Texas,28,, 58.3,65.0,D,03/01/2023
+489,Representative,Sylvia Garcia,Democratic,Texas,29,, 71.1,70.0,D,03/01/2023
+490,Representative,Eddie Bernice Johnson,Democratic,Texas,30,, 77.5,85.0,M,03/01/2023
+491,Representative,John Carter,Republican,Texas,31,, 53.4,79.0,D,03/01/2023
+492,Representative,Colin Allred,Democratic,Texas,32,, 52.0,37.0,D,03/01/2023
+493,Representative,Marc Veasey,Democratic,Texas,33,, 66.8,50.0,B,03/01/2023
+494,Representative,Filemon Vela Jr.,Democratic,Texas,34,, 55.4,57.0,D,31/03/2022
+495,Representative,Lloyd Doggett,Democratic,Texas,35,, 65.4,74.0,D,03/01/2023
+496,Representative,Brian Babin,Republican,Texas,36,, 73.6,72.0,D,03/01/2023
+497,Representative,Blake Moore,Republican,Utah,1,, 69.5,40.0,M,03/01/2023
+498,Representative,Chris Stewart,Republican,Utah,2,, 59.0,60.0,B,03/01/2023
+499,Representative,John Curtis,Republican,Utah,3,, 68.7,60.0,B,03/01/2023
+500,Representative,Burgess Owens,Republican,Utah,4,, 47.7,69.0,B,03/01/2023
+501,Representative,Peter Welch,Democratic,Vermont,at-large,, 67.3,73.0,D,03/01/2023
+502,Representative,Rob Wittman,Republican,Virginia,1,, 58.2,61.0,D,03/01/2023
+503,Representative,Elaine Luria,Democratic,Virginia,2,, 51.6,45.0,M,03/01/2023
+504,Representative,Bobby Scott,Democratic,Virginia,3,, 68.4,73.0,D,03/01/2023
+505,Representative,Donald McEachin,Democratic,Virginia,4,, 61.6,59.0,D,28/11/2022
+506,Representative,Bob Good,Republican,Virginia,5,, 52.4,55.0,M,03/01/2023
+507,Representative,Ben Cline,Republican,Virginia,6,, 64.6,48.0,D,03/01/2023
+508,Representative,Abigail Spanberger,Democratic,Virginia,7,, 50.8,41.0,M,03/01/2023
+509,Representative,Don Beyer,Democratic,Virginia,8,, 75.8,70.0,B,03/01/2023
+510,Representative,Morgan Griffith,Republican,Virginia,9,, 94.0,62.0,D,03/01/2023
+511,Representative,Jennifer Wexton,Democratic,Virginia,10,, 56.5,52.0,D,03/01/2023
+512,Representative,Gerry Connolly,Democratic,Virginia,11,, 71.4,70.0,M,03/01/2023
+513,Representative,Suzan DelBene,Democratic,Washington,1,, 58.6,58.0,M,03/01/2023
+514,Representative,Rick Larsen,Democratic,Washington,2,, 63.1,55.0,M,03/01/2023
+515,Representative,Jaime Herrera Beutler,Republican,Washington,3,, 56.4,42.0,B,03/01/2023
+516,Representative,Dan Newhouse,Republican,Washington,4,, 66.2,65.0,B,03/01/2023
+517,Representative,Cathy McMorris Rodgers,Republican,Washington,5,, 61.3,51.0,M,03/01/2023
+518,Representative,Derek Kilmer,Democratic,Washington,6,, 59.3,47.0,D,03/01/2023
+519,Representative,Pramila Jayapal,Democratic,Washington,7,, 83.0,55.0,M,03/01/2023
+520,Representative,Kim Schrier,Democratic,Washington,8,, 51.7,52.0,D,03/01/2023
+521,Representative,Adam Smith,Democratic,Washington,9,, 74.1,55.0,D,03/01/2023
+522,Representative,Marilyn Strickland,Democratic,Washington,10,, 49.3,58.0,M,03/01/2023
+523,Representative,David McKinley,Republican,West Virginia,1,, 69.0,73.0,B,03/01/2023
+524,Representative,Alex Mooney,Republican,West Virginia,2,, 63.1,49.0,B,03/01/2023
+525,Representative,Carol Miller,Republican,West Virginia,3,, 71.3,70.0,B,03/01/2023
+526,Representative,Bryan Steil,Republican,Wisconsin,1,, 59.3,39.0,D,03/01/2023
+527,Representative,Mark Pocan,Democratic,Wisconsin,2,, 69.7,56.0,B,03/01/2023
+528,Representative,Ron Kind,Democratic,Wisconsin,3,, 51.3,57.0,D,03/01/2023
+529,Representative,Gwen Moore,Democratic,Wisconsin,4,, 74.7,69.0,B,03/01/2023
+530,Representative,Scott L. Fitzgerald,Republican,Wisconsin,5,, 60.1,57.0,B,03/01/2023
+531,Representative,Glenn Grothman,Republican,Wisconsin,6,, 59.2,65.0,D,03/01/2023
+532,Representative,Tom Tiffany,Republican,Wisconsin,7,, 60.7,63.0,B,03/01/2023
+533,Representative,Mike Gallagher,Republican,Wisconsin,8,, 64.2,36.0,D,03/01/2023
+534,Representative,Liz Cheney,Republican,Wyoming,at-large,, 68.6,54.0,D,03/01/2023
